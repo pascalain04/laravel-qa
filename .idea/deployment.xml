@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="AdminLTE-Generator-6">
+    <serverData>
+      <paths name="AdminLTE-Generator-6">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="http://laravel-qa.oo/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
